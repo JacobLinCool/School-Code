@@ -14,8 +14,7 @@
 ![](./img/media/image1.png)![](./img/media/image2.png)
 
 **範例輸入
-：**![help](./img/media/image3.png){width="0.17777777777777778in"
-height="0.19027777777777777in"}
+：**![help](./img/media/image3.png)
 <pre>
 +---------------+--------------------+
 | 8 7           | 迷宮大小           |

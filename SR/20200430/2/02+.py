@@ -2,8 +2,6 @@ while 1:
     a = int(input())
     t = 0
     
-    print(a)
-    
     t += a//50
     print("50 X " + str(a//50))
     a %= 50

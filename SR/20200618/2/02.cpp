@@ -50,7 +50,6 @@ void sol(int n) {
 
 int main(){
 	while(cin >> num[0][0]) {
-        N = 1;
 		for(int i = 1; i < 9; i++) cin >> num[0][i];
 		for(int i = 1; i < 9; i++)
             for(int j = 0; j < 9; j++)
